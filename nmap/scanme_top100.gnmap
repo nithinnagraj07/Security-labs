@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Tue Jul 14 23:35:41 2026 as: /usr/lib/nmap/nmap -sV -sC --top-ports 100 -oA /home/nithin07/security-labs/nmap/scanme_top100 scanme.nmap.org
+Host: 45.33.32.156 (scanme.nmap.org)	Status: Up
+Host: 45.33.32.156 (scanme.nmap.org)	Ports: 21/open/tcp//tcpwrapped///, 22/open/tcp//ssh//OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.7 ((Ubuntu))/	Ignored State: closed (97)
+# Nmap done at Tue Jul 14 23:36:02 2026 -- 1 IP address (1 host up) scanned in 21.59 seconds
